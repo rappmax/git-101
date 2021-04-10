@@ -1,0 +1,14 @@
+head { 
+font-family: arial;
+font-size: 100;
+ }
+
+#logo {
+	height: 80px;
+	width: 80px;
+}
+
+
+body {
+	font: helvetica;
+}
